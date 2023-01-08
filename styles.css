@@ -36,7 +36,7 @@ text-align: center;
     box-shadow: 10px 10px 20px #AAAA ;
     
 }
-.msn:hover{background-color:#AAAA ;}
+.msn:hover{background-color:#AAAA ;transition: 500ms;}
 
 .btn{
     width: 20%;
@@ -47,7 +47,7 @@ text-align: center;
 
     
 }
-.btn:hover{background-color: #AAAA;}
+.btn:hover{background-color: #AAAA;transition: 500ms;}
 
 @media screen and (max-width: 414px){
     .title{font-size: 16px};
