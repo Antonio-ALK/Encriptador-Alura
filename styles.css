@@ -49,7 +49,7 @@ text-align: center;
 }
 .btn:hover{background-color: #AAAA;transition: 500ms;}
 
-@media screen and (max-width: 414px){
+@media screen and (max-width: 300px){
     .title{font-size: 16px};
     .logo{
         width:150px;}
